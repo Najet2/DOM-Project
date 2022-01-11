@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+#shopping{
+    display: flex;
+    align-items: flex-start
+  }
+
+.line {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.plus {
+    outline: transparent;
+    color: tomato;
+}
+
+.productName {
+    width: 50px;
+}
+
+
+#total {
+    width: 1000px;
+  
+}
+
+
+
